@@ -2,6 +2,8 @@
 
 ### Introduction
 - Admins with ADMFlag_Kick will be able to use the `!hp` command to give health to all non-dead/ledged Survivors, as well as pick up incapacitated Survivors (if enabled).
+- Health given is **100** by default, but if an argument is given it will instead apply that health.
+> **Example:** `!hp 50` will give everyone 50 HP.
 
 <hr>
 
